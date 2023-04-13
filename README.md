@@ -1,1 +1,1 @@
-# HakerRank
+This repository contains daily challenges and problem-solving solutions from HackerRank using JavaScript.
